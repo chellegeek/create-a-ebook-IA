@@ -84,7 +84,8 @@ Para criar o eBook utilizando este projeto, siga os passos abaixo:
     &nbsp&nbsp&nbsp
     <a href="https://github.com/chellegeek">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/michelle-garcia-">LinkedIn</a>
+   <a href="https://www.linkedin.com/in/michelle-
+garcia-/">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/chellegarciami/">
     Instagram</a>
